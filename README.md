@@ -21,15 +21,20 @@
 
 Music is not just a background element: it is the **beating heart of the game**. Every action, from boss fights to instrument choices, will directly influence the soundtrack and gameplay. This relationship between the choices made by the player and the music production is intended to allow the player to **understand the main characteristics of a particular genre, the instruments most commonly used, and its sounds**.
 
+Demo videos are available at the following links:
+
+- **Metal level:** [METAL_LEVEL](https://drive.google.com/file/d/1yiUgeeq1Vd1mpXplPCxiVTyeBx0nQlRO/view?usp=sharing)
+- **Classic level:** [CLASSIC_LEVEL](https://drive.google.com/file/d/1prCaDQXeUzemBBgrfOTCdO9TXSud9PyL/view?usp=sharing)
+- **Jazz level:** [JAZZ_LEVEL](https://drive.google.com/file/d/1IUkw6Z7UIFGl4jGyiOziHS-LC9Rb-one/view?usp=sharing)
 
 <div align="center">
   <img src="READMEimg/gameplay.gif" alt="Gameplay">
 </div>
 
-> 🎵 **Why music? ** 
+> 🎵 Why music? 
 Early exposure to music promotes **cognitive development**, improves **memory** and enhances **language and mathematical skills** and when combined with interactive technology could become become a powerful tool in therapeutic and educational settings.
 
-> 🎮 **Why games? ** 
+> 🎮 Why games? 
 Video games promote **engagement**, **curiosity** and **problem solving**. In education, they enable learning by playing through **instant feedback** and **personalized learning paths**. The idea is to mix the musical world with the video game world in order to achieve is a **safe and stimulating environment** in which creativity and learning flourish and in which players are guided on a journey of **expression and discovery of music**, all while having fun.
 
 The idea is to create more than just a game: The Last MusicBlade is meant to be a platform for exploring music, expressing oneself with it, and at the same time having fun while playing .
