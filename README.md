@@ -1,7 +1,7 @@
 # 🎮🎶 **<span style="color:cyan">The Last Music Blade**  
 *A LowPoly-style musical adventure in which you can face different musical “Bosses” and discover the different genres to which they belong.*
 
-![Screenshot](https://github.com/anonymres1337/Anonym_TheLastMusicBlade/blob/3a2975a78e8f6dc1740d766d8436df7cd8632feb/READMEimg/gameplay.gif)
+![Screenshot](READMEimg/mainmenu.gif)
 
 ---
 
@@ -21,9 +21,13 @@
 
 Music is not just a background element: it is the **beating heart of the game**. Every action, from boss fights to instrument choices, will directly influence the soundtrack and gameplay. This relationship between the choices made by the player and the music production is intended to allow the player to **understand the main characteristics of a particular genre, the instruments most commonly used, and its sounds**.
 
+🎥 See it in action: Video demonstrations for every level are available in the DEMOS folder.
+
 <div align="center">
   <img src="READMEimg/gameplay.gif" alt="Gameplay">
 </div>
+
+
 
 > 🎵 Why music? 
 Early exposure to music promotes **cognitive development**, improves **memory** and enhances **language and mathematical skills** and when combined with interactive technology could become become a powerful tool in therapeutic and educational settings.
