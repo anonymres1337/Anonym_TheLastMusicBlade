@@ -1,7 +1,7 @@
 # 🎮🎶 **<span style="color:cyan">The Last Music Blade**  
 *A LowPoly-style musical adventure in which you can face different musical “Bosses” and discover the different genres to which they belong.*
 
-![Screenshot](READMEimg/mainmenu.gif)
+![Screenshot](https://github.com/anonymres1337/Anonym_TheLastMusicBlade/blob/3a2975a78e8f6dc1740d766d8436df7cd8632feb/READMEimg/gameplay.gif)
 
 ---
 
