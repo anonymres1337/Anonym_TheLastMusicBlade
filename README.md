@@ -21,12 +21,6 @@
 
 Music is not just a background element: it is the **beating heart of the game**. Every action, from boss fights to instrument choices, will directly influence the soundtrack and gameplay. This relationship between the choices made by the player and the music production is intended to allow the player to **understand the main characteristics of a particular genre, the instruments most commonly used, and its sounds**.
 
-Demo videos are available at the following links:
-
-- **Metal level:** [METAL_LEVEL](https://drive.google.com/file/d/1yiUgeeq1Vd1mpXplPCxiVTyeBx0nQlRO/view?usp=sharing)
-- **Classic level:** [CLASSIC_LEVEL](https://drive.google.com/file/d/1prCaDQXeUzemBBgrfOTCdO9TXSud9PyL/view?usp=sharing)
-- **Jazz level:** [JAZZ_LEVEL](https://drive.google.com/file/d/1IUkw6Z7UIFGl4jGyiOziHS-LC9Rb-one/view?usp=sharing)
-
 <div align="center">
   <img src="READMEimg/gameplay.gif" alt="Gameplay">
 </div>
